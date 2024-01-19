@@ -20,7 +20,6 @@ Hi 👋 My name is Ahmed
 Junior .NET Developer
 ---------------------
 
-* 🌍  I'm based in Razgrad
 * 🧠  I'm learning ASP.NET MVC
 
 ### Skills
